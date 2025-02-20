@@ -24,7 +24,7 @@ Built with **React Native + Ignite, Firebase, and Google Cloud Platform**, X4A e
 
 ## Development Roadmap  
 
-### 🟢 Phase 1 - MVP (4 months)  
+### 🟢 Phase 1 - MVP 
 ✅ User Authentication & KYC Verification  
 ✅ Basic Wallet Integration  
 ✅ USDT Buy/Sell Functionality  
