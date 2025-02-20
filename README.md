@@ -1,10 +1,10 @@
 # X4A - Cryptocurrency Trading Platform  
-🚀 **Secure & Efficient USDT Trading in Central America**  
+🚀 **Secure & Efficient USDT Trading in Latin America**  
 
 ## Overview  
-X4A is a cryptocurrency trading platform designed to facilitate the **buying and selling of USDT** in Central America with a strong focus on **security, compliance, and user experience**.  
+X4A is a cryptocurrency trading platform designed to facilitate the **buying and selling of USDT** in Latin America with a strong focus on **security, compliance, and user experience**.  
 
-Built with **React Native, Firebase, and Google Cloud Platform**, X4A ensures **fast, secure, and seamless** transactions for users looking for an alternative financial solution.  
+Built with **React Native + Ignite, Firebase, and Google Cloud Platform**, X4A ensures **fast, secure, and seamless** transactions for users looking for an alternative financial solution.  
 
 ## Key Features (MVP)  
 ✔ **User Registration & Authentication** – Email & phone-based signup with secure authentication.  
